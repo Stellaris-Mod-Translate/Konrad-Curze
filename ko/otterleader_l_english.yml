@@ -1,6 +1,11 @@
 ﻿l_english:
 
+
+# Leader
+
+
 # Leader: "# 지도자"
+
 otterleader_event_header: "지도자 편집"
 otterleader_option_ruler: "통치자"
 otterleader_option_governors: "총독"
@@ -15,8 +20,13 @@ otterleader_option_clear_negative_NAME: "모든 부정적 특성 제거"
 otterleader_option_clear_negative_DESC: "이 카테고리의 모든 지도자의 모든 부정적 특성을 제거합니다."
 otterleader_option_add_experience_NAME: "경험치 추가"
 otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에게 경험치를 추가하는 몇 가지 옵션을 얻습니다. "
+
 ## Experience: "## 경험치"
+
 otterleader_add_experience_100_NAME: "100"
+
+## Experience
+
 otterleader_add_experience_100_DESC: "당신의 지도자들에게 §G100§! 경험치를 추가합니다."
 otterleader_add_experience_500_NAME: "500"
 otterleader_add_experience_500_DESC: "당신의 지도자들에게 §G500§! 경험치를 추가합니다."
@@ -26,11 +36,21 @@ otterleader_add_experience_5000_NAME: "5,000"
 otterleader_add_experience_5000_DESC: "당신의 지도자들에게 §G5,000§! 경험치를 추가합니다."
 otterleader_add_experience_10000_NAME: "10,000"
 otterleader_add_experience_10000_DESC: "당신의 지도자들에게 §G10,000§! 경험치를 추가합니다."
+
 ## Project: "## 프로젝트"
+
 otterleader_PROJECT: "지도자 커스터마이징"
+
+## Project
+
 otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
+
 # Event: "# 이벤트"
+
 otterleader_a_event_header: "제독 편집"
+
+# Event
+
 otterleader_g_event_header: "장군 편집"
 otterleader_gov_event_header: "총독 편집"
 otterleader_r_event_header: "통치자 편집"
@@ -304,33 +324,33 @@ otterleader_leader_trait_shroud_age_NAME: ""
 otterleader_leader_trait_shroud_age_DESC: ""
 otl.n: ""
 otl.a: ""
-otl.1: ""
-otl.2: ""
-otl.3: ""
-otl.4: ""
-otl.5: ""
-otl.6: ""
-otl.7: ""
-otl.8: ""
-otl.9: ""
-otl.10: ""
-otl.11: ""
-otl.12: ""
-otl.13: ""
-otl.14: ""
-otl.15: ""
-otl.16: ""
-otl.17: ""
-otl.18: ""
-otl.19: ""
-otl.20: ""
-otl.21: ""
-otl.22: ""
-otl.23: ""
-otl.24: ""
-otl.25: ""
-otl.26: ""
-otl.27: ""
-otl.28: ""
-otl.29: ""
-otl.30: ""
+otl.1: "[ottleader_1.GetName]"
+otl.2: "[ottleader_2.GetName]"
+otl.3: "[ottleader_3.GetName]"
+otl.4: "[ottleader_4.GetName]"
+otl.5: "[ottleader_5.GetName]"
+otl.6: "[ottleader_6.GetName]"
+otl.7: "[ottleader_7.GetName]"
+otl.8: "[ottleader_8.GetName]"
+otl.9: "[ottleader_9.GetName]"
+otl.10: "[ottleader_10.GetName]"
+otl.11: "[ottleader_11.GetName]"
+otl.12: "[ottleader_12.GetName]"
+otl.13: "[ottleader_13.GetName]"
+otl.14: "[ottleader_14.GetName]"
+otl.15: "[ottleader_15.GetName]"
+otl.16: "[ottleader_16.GetName]"
+otl.17: "[ottleader_17.GetName]"
+otl.18: "[ottleader_18.GetName]"
+otl.19: "[ottleader_19.GetName]"
+otl.20: "[ottleader_20.GetName]"
+otl.21: "[ottleader_21.GetName]"
+otl.22: "[ottleader_22.GetName]"
+otl.23: "[ottleader_23.GetName]"
+otl.24: "[ottleader_24.GetName]"
+otl.25: "[ottleader_25.GetName]"
+otl.26: "[ottleader_26.GetName]"
+otl.27: "[ottleader_27.GetName]"
+otl.28: "[ottleader_28.GetName]"
+otl.29: "[ottleader_29.GetName]"
+otl.30: "[ottleader_30.GetName]"
