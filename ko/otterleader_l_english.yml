@@ -1,9 +1,7 @@
 ﻿l_english:
 
-
-# Leader
-
-otterleader_event_header: "리더 설정"
+# Leader: "# 지도자"
+otterleader_event_header: "지도자 편집"
 otterleader_option_ruler: "통치자"
 otterleader_option_governors: "총독"
 otterleader_option_scientists: "과학자"
@@ -11,39 +9,33 @@ otterleader_option_admirals: "제독"
 otterleader_option_generals: "장군"
 otterleader_option_back: "<< 뒤로 가기 <<"
 otterleader_option_done: "§R<< 완료 >>§!"
-otterleader_option_clear_all_NAME: "모두 초기화하기"
-otterleader_option_clear_all_DESC: "이 카테고리의 모든 리더의 특성을 초기화합니다."
-otterleader_option_clear_negative_NAME: "모든 부정적 특성 제거하기"
-otterleader_option_clear_negative_DESC: ""
-otterleader_option_add_experience_NAME: ""
-otterleader_option_add_experience_DESC: ""
-
-## Experience
-
-otterleader_add_experience_100_NAME: ""
-otterleader_add_experience_100_DESC: ""
-otterleader_add_experience_500_NAME: ""
-otterleader_add_experience_500_DESC: ""
-otterleader_add_experience_1000_NAME: ""
-otterleader_add_experience_1000_DESC: ""
-otterleader_add_experience_5000_NAME: ""
-otterleader_add_experience_5000_DESC: ""
-otterleader_add_experience_10000_NAME: ""
-otterleader_add_experience_10000_DESC: ""
-
-## Project
-
-otterleader_PROJECT: ""
-otterleader_PROJECT_DESC: ""
-
-# Event
-
-otterleader_a_event_header: ""
-otterleader_g_event_header: ""
-otterleader_gov_event_header: ""
-otterleader_r_event_header: ""
-otterleader_s_event_header: ""
-otterleader_event_description: ""
+otterleader_option_clear_all_NAME: "모두 초기화"
+otterleader_option_clear_all_DESC: "이 카테고리의 모든 지도자의 특성을 초기화합니다."
+otterleader_option_clear_negative_NAME: "모든 부정적 특성 제거"
+otterleader_option_clear_negative_DESC: "이 카테고리의 모든 지도자의 모든 부정적 특성을 제거합니다."
+otterleader_option_add_experience_NAME: "경험치 추가"
+otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에게 경험치를 추가하는 몇 가지 옵션을 얻습니다. "
+## Experience: "## 경험치"
+otterleader_add_experience_100_NAME: "100"
+otterleader_add_experience_100_DESC: "당신의 지도자들에게 §G100§! 경험치를 추가합니다."
+otterleader_add_experience_500_NAME: "500"
+otterleader_add_experience_500_DESC: "당신의 지도자들에게 §G500§! 경험치를 추가합니다."
+otterleader_add_experience_1000_NAME: "1,000"
+otterleader_add_experience_1000_DESC: "당신의 지도자들에게 §G1.000§! 경험치를 추가합니다."
+otterleader_add_experience_5000_NAME: "5,000"
+otterleader_add_experience_5000_DESC: "당신의 지도자들에게 §G5,000§! 경험치를 추가합니다."
+otterleader_add_experience_10000_NAME: "10,000"
+otterleader_add_experience_10000_DESC: "당신의 지도자들에게 §G10,000§! 경험치를 추가합니다."
+## Project: "## 프로젝트"
+otterleader_PROJECT: "지도자 커스터마이징"
+otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
+# Event: "# 이벤트"
+otterleader_a_event_header: "제독 편집"
+otterleader_g_event_header: "장군 편집"
+otterleader_gov_event_header: "총독 편집"
+otterleader_r_event_header: "통치자 편집"
+otterleader_s_event_header: "과학자 편집"
+otterleader_event_description: "카테고리를 선택하십시오. 언제든지 뒤로 갈 수 있습니다."
 otterleader_option_category_general: ""
 otterleader_option_category_add_experience: ""
 otterleader_option_category_expertises: ""
