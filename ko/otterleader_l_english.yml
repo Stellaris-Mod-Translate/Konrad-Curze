@@ -1,8 +1,6 @@
 ﻿l_english:
 
-
-# Leader
-
+# Leader: "# 지도자"
 
 # Leader: "# 지도자"
 
@@ -24,9 +22,7 @@ otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에
 ## Experience: "## 경험치"
 
 otterleader_add_experience_100_NAME: "100"
-
-## Experience
-
+## Experience: "## 경험치"
 otterleader_add_experience_100_DESC: "당신의 지도자들에게 §G100§! 경험치를 추가합니다."
 otterleader_add_experience_500_NAME: "500"
 otterleader_add_experience_500_DESC: "당신의 지도자들에게 §G500§! 경험치를 추가합니다."
@@ -36,17 +32,13 @@ otterleader_add_experience_5000_NAME: "5,000"
 otterleader_add_experience_5000_DESC: "당신의 지도자들에게 §G5,000§! 경험치를 추가합니다."
 otterleader_add_experience_10000_NAME: "10,000"
 otterleader_add_experience_10000_DESC: "당신의 지도자들에게 §G10,000§! 경험치를 추가합니다."
-
-## Project
-
+## Project: "## 프로젝트"
 otterleader_PROJECT: "지도자 커스터마이징"
 
 ## Project: "## 프로젝트"
 
 otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
-
-# Event
-
+# Event: "# 이벤트"
 otterleader_a_event_header: "제독 편집"
 
 # Event: "# 이벤트"
@@ -68,20 +60,20 @@ otterleader_option_category_generic: ""
 
 otterleader_a_leader_trait_trickster_NAME: "책략가"
 otterleader_a_leader_trait_trickster_DESC: "긴급 초광속 피해 위험율: §G-15%§\n전투 철수 확률: §G+25%§!"
-otterleader_a_leader_trait_fleet_logistician_NAME: ""
-otterleader_a_leader_trait_fleet_logistician_DESC: ""
-otterleader_a_leader_trait_engineer_NAME: ""
-otterleader_a_leader_trait_engineer_DESC: ""
-otterleader_a_leader_trait_aggressive_NAME: ""
-otterleader_a_leader_trait_aggressive_DESC: ""
-otterleader_a_leader_trait_cautious_NAME: ""
-otterleader_a_leader_trait_cautious_DESC: ""
-otterleader_a_leader_trait_scout_NAME: ""
-otterleader_a_leader_trait_scout_DESC: ""
-otterleader_a_leader_trait_unyielding_NAME: ""
-otterleader_a_leader_trait_unyielding_DESC: ""
-otterleader_a_leader_trait_gale_speed_NAME: ""
-otterleader_a_leader_trait_gale_speed_DESC: ""
+otterleader_a_leader_trait_fleet_logistician_NAME: "함대 군수전문가"
+otterleader_a_leader_trait_fleet_logistician_DESC: "함선 유지비: §G-10%§!"
+otterleader_a_leader_trait_engineer_NAME: "기술자"
+otterleader_a_leader_trait_engineer_DESC: "일일 선체 재생: §G+5%§!\n일일 장갑 재생: §G+5%§!"
+otterleader_a_leader_trait_aggressive_NAME: "공격적"
+otterleader_a_leader_trait_aggressive_DESC: "함선 연사 속도: §G+5%§!\n아광속 속도: §G+10%§!"
+otterleader_a_leader_trait_cautious_NAME: "신중한"
+otterleader_a_leader_trait_cautious_DESC: "함선 무기 사거리: §G+20%§!"
+otterleader_a_leader_trait_scout_NAME: "정찰병"
+otterleader_a_leader_trait_scout_DESC: "감지 범위: §G+1§!\n함선 초공간로 감지 범위: §G+2§!\n아광속 속도: §G+10%§!"
+otterleader_a_leader_trait_unyielding_NAME: "불굴"
+otterleader_a_leader_trait_unyielding_DESC: "선체 내구도: §G+10%§!\n함선 무기 피해량: §G+5%§!\n전투 철수 확률: §R-33%§!"
+otterleader_a_leader_trait_gale_speed_NAME: "질풍"
+otterleader_a_leader_trait_gale_speed_DESC: "회피: §G+5%§!\n아광속 속도: §G+20%§!"
 otterleader_g_leader_trait_restrained_NAME: ""
 otterleader_g_leader_trait_restrained_DESC: ""
 otterleader_g_leader_trait_charismatic_NAME: ""
