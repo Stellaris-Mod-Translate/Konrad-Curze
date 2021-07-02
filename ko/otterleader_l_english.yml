@@ -1,8 +1,6 @@
 ﻿l_english:
 
-
-# Leader
-
+# Leader: "# 지도자"
 
 # Leader: "# 지도자"
 
@@ -40,17 +38,13 @@ otterleader_add_experience_10000_DESC: "당신의 지도자들에게 §G10,000§
 ## Project: "## 프로젝트"
 
 otterleader_PROJECT: "지도자 커스터마이징"
-
-## Project
-
+## Project: "## 프로젝트"
 otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
 
 # Event: "# 이벤트"
 
 otterleader_a_event_header: "제독 편집"
-
-# Event
-
+# Event: "# 이벤트"
 otterleader_g_event_header: "장군 편집"
 otterleader_gov_event_header: "총독 편집"
 otterleader_r_event_header: "통치자 편집"
@@ -66,7 +60,7 @@ otterleader_option_category_generic: ""
 
 ## General
 
-otterleader_a_leader_trait_trickster_NAME: ""
+otterleader_a_leader_trait_trickster_NAME: "책략가"
 otterleader_a_leader_trait_trickster_DESC: ""
 otterleader_a_leader_trait_fleet_logistician_NAME: ""
 otterleader_a_leader_trait_fleet_logistician_DESC: ""
@@ -94,8 +88,8 @@ otterleader_g_leader_trait_army_logistician_NAME: ""
 otterleader_g_leader_trait_army_logistician_DESC: ""
 otterleader_g_leader_trait_general_mercenary_warrior_NAME: ""
 otterleader_g_leader_trait_general_mercenary_warrior_DESC: ""
-otterleader_gov_leader_trait_iron_fist_NAME: ""
-otterleader_gov_leader_trait_iron_fist_DESC: ""
+otterleader_gov_leader_trait_iron_fist_NAME: "$leader_trait_iron_fist$"
+otterleader_gov_leader_trait_iron_fist_DESC: "노예 POP 자원 생상량:  §G+10%§!"
 otterleader_gov_leader_trait_army_veteran_NAME: ""
 otterleader_gov_leader_trait_army_veteran_DESC: ""
 otterleader_gov_leader_trait_retired_fleet_officer_NAME: ""
