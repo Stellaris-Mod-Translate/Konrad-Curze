@@ -1,7 +1,7 @@
 ﻿l_english:
 
 
-# Leader
+# 지도자
 
 
 # 지도자
@@ -19,7 +19,7 @@ otterleader_option_clear_all_DESC: "이 카테고리의 모든 지도자의 특�
 otterleader_option_clear_negative_NAME: "모든 부정적 특성 제거"
 otterleader_option_clear_negative_DESC: "이 카테고리의 모든 지도자의 모든 부정적 특성을 제거합니다."
 otterleader_option_add_experience_NAME: "경험치 추가"
-otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에게 경험치를 추가하는 몇 가지 옵션을 얻습니다. "
+otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에게 경험치를 추가하는 몇 가지 옵션을 얻습니다."
 
 ## Experience
 
@@ -34,7 +34,7 @@ otterleader_add_experience_5000_DESC: "당신의 지도자들에게 §G5,000§! 
 otterleader_add_experience_10000_NAME: "10,000"
 otterleader_add_experience_10000_DESC: "당신의 지도자들에게 §G10,000§! 경험치를 추가합니다."
 
-## Project
+## 프로젝트
 
 otterleader_PROJECT: "지도자 커스터마이징"
 otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
@@ -54,7 +54,7 @@ otterleader_option_category_military: ""
 otterleader_option_category_events: ""
 otterleader_option_category_special: ""
 
-## General
+## 일반
 
 otterleader_option_category_generic: ""
 otterleader_a_leader_trait_trickster_NAME: "책략가"
@@ -126,9 +126,8 @@ otterleader_r_trait_ruler_charismatic_NAME: "카리스마"
 otterleader_r_trait_ruler_charismatic_DESC: "시행력 비용: §G-10%§!\n시행령 기간: §G+20%§!"
 otterleader_r_trait_ruler_champion_of_the_people_NAME: "국민의 투사"
 otterleader_r_trait_ruler_expansionist_NAME: "확장주의자"
+otterleader_r_trait_ruler_champion_of_the_people_DESC: ""
 otterleader_r_trait_ruler_expansionist_DESC: "전초기지 건설 비용: §G-15%§!\n항성기지 영향력 비용: §G-15%§!"
-otterleader_r_trait_ruler_champion_of_the_people_DESC: "행복도: §G+5%§!
-"
 otterleader_r_trait_ruler_fertility_preacher_NAME: "풍요 전도사"
 otterleader_r_trait_ruler_fertility_preacher_DESC: ""
 otterleader_r_trait_ruler_investor_NAME: ""
@@ -162,7 +161,7 @@ otterleader_s_leader_trait_inspired_researcher_DESC: ""
 otterleader_s_leader_trait_inspired_surveyor_NAME: ""
 otterleader_s_leader_trait_inspired_surveyor_DESC: ""
 
-## Military
+## 군사
 
 otterleader_r_trait_ruler_corvette_focus_NAME: ""
 otterleader_r_trait_ruler_corvette_focus_DESC: ""
