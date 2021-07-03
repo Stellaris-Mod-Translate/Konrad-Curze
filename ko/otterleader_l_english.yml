@@ -1,8 +1,6 @@
 ﻿l_english:
 
-
-# Leader
-
+# Leader: "# 지도자"
 
 # Leader: "# 지도자"
 
@@ -20,9 +18,7 @@ otterleader_option_clear_negative_NAME: "모든 부정적 특성 제거"
 otterleader_option_clear_negative_DESC: "이 카테고리의 모든 지도자의 모든 부정적 특성을 제거합니다."
 otterleader_option_add_experience_NAME: "경험치 추가"
 otterleader_option_add_experience_DESC: "이 카테고리의 모든 지도자에게 경험치를 추가하는 몇 가지 옵션을 얻습니다. "
-
-## Experience
-
+## Experience: "## 경험치"
 otterleader_add_experience_100_NAME: "100"
 
 ## Experience: "## 경험치"
@@ -44,9 +40,7 @@ otterleader_PROJECT: "지도자 커스터마이징"
 ## Project: "## 프로젝트"
 
 otterleader_PROJECT_DESC: "이 프로젝트를 진행하면, 지도자들을 커스터마이징 할 수 있습니다!"
-
-# Event
-
+# Event: "# 이벤트"
 otterleader_a_event_header: "제독 편집"
 
 # Event: "# 이벤트"
@@ -56,16 +50,14 @@ otterleader_gov_event_header: "총독 편집"
 otterleader_r_event_header: "통치자 편집"
 otterleader_s_event_header: "과학자 편집"
 otterleader_event_description: "카테고리를 선택하십시오. 언제든지 뒤로 갈 수 있습니다."
-otterleader_option_category_general: ""
+otterleader_option_category_general: "일반"
 otterleader_option_category_add_experience: ""
 otterleader_option_category_expertises: ""
 otterleader_option_category_military: ""
 otterleader_option_category_events: ""
 otterleader_option_category_special: ""
 otterleader_option_category_generic: ""
-
-## General
-
+## General: "## 일반"
 otterleader_a_leader_trait_trickster_NAME: "책략가"
 otterleader_a_leader_trait_trickster_DESC: "긴급 초광속 피해 위험율: §G-15%§\n전투 철수 확률: §G+25%§!"
 otterleader_a_leader_trait_fleet_logistician_NAME: "함대 군수전문가"
