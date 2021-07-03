@@ -1,6 +1,9 @@
 ﻿l_english:
 
 
+# Leader
+
+
 # 지도자
 
 otterleader_event_header: "지도자 편집"
@@ -124,7 +127,8 @@ otterleader_r_trait_ruler_charismatic_DESC: "시행력 비용: §G-10%§!\n시�
 otterleader_r_trait_ruler_champion_of_the_people_NAME: "국민의 투사"
 otterleader_r_trait_ruler_expansionist_NAME: "확장주의자"
 otterleader_r_trait_ruler_expansionist_DESC: "전초기지 건설 비용: §G-15%§!\n항성기지 영향력 비용: §G-15%§!"
-otterleader_r_trait_ruler_champion_of_the_people_DESC: ""
+otterleader_r_trait_ruler_champion_of_the_people_DESC: "행복도: §G+5%§!
+"
 otterleader_r_trait_ruler_fertility_preacher_NAME: "풍요 전도사"
 otterleader_r_trait_ruler_fertility_preacher_DESC: ""
 otterleader_r_trait_ruler_investor_NAME: ""
