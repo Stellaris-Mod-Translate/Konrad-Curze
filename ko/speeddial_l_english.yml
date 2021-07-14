@@ -1,0 +1,68 @@
+﻿l_english:
+
+speeddial_button_contact_tooltip: "접촉"
+speeddial_button_contact_wbc_tooltip: "접촉할 것입니다."
+speeddial_button_contact_trader_tooltip: ""
+speeddial_button_contact_artist_tooltip: ""
+speeddial_button_contact_curator_tooltip: ""
+speeddial_button_contact_shroud_tooltip: ""
+speeddial_button_contact_caravaneer_tooltip: ""
+speeddial_button_contact_traders_xc_tooltip: ""
+speeddial_button_contact_traders_rce_tooltip: ""
+speeddial_button_contact_traders_mmg_tooltip: ""
+speeddial_button_allow_blank_tooltip: ""
+speeddial_button_newline: " \n"
+speeddial_button_allow_shroud_wmw: "우리는 기다려야만 합니다."
+speeddial_button_allow_shroud_brisa: ""
+speeddial_button_allow_shroud_tooltip: ""
+speeddial_button_allow_shroud_3600_tooltip: ""
+speeddial_button_allow_shroud_1800_tooltip: ""
+speeddial_button_allow_shroud_1440_tooltip: ""
+speeddial_button_allow_shroud_1080_tooltip: ""
+speeddial_button_allow_shroud_720_tooltip: ""
+speeddial_button_allow_shroud_360_tooltip: ""
+speeddial_button_allow_shroud_180_tooltip: ""
+speeddial_button_allow_shroud_150_tooltip: ""
+speeddial_button_allow_shroud_120_tooltip: ""
+speeddial_button_allow_shroud_90_tooltip: ""
+speeddial_button_allow_shroud_60_tooltip: ""
+speeddial_button_allow_shroud_30_tooltip: ""
+speeddial_button_open_options_tooltip: ""
+speeddial_button_open_options_tooltip_end: ""
+speeddial_button_open_options_tooltip_classic: ""
+speeddial_button_open_options_tooltip_extended: ""
+speeddial_button_open_options_tooltip_extended_fixed: ""
+speeddial_button_open_options_tooltip_fixed: ""
+speeddial.4.name: ""
+speeddial.4.desc: ""
+speeddial_button_contact_marauder_tooltip: ""
+speeddial_button_contact_marauder_1_tooltip: ""
+speeddial_button_contact_marauder_2_tooltip: ""
+speeddial_button_contact_marauder_3_tooltip: ""
+
+# mods #
+
+
+########
+
+
+# merc enclave
+
+speeddial_button_contact_merc_tooltip: ""
+
+# human fallen empires
+
+speeddial_button_contact_hfe_tooltip: ""
+speeddial_button_contact_hfe_pirate_tooltip: ""
+speeddial_button_contact_hfe_deepvoid_tooltip: ""
+speeddial_button_allow_hfe_deepvoid_tooltip: ""
+
+# new enclaves
+
+speeddial_button_contact_nehive_tooltip: ""
+speeddial_button_contact_nemachine_tooltip: ""
+speeddial_button_contact_neshroud_tooltip: ""
+
+# xenonion
+
+speeddial_button_contact_xenonews_tooltip: ""
