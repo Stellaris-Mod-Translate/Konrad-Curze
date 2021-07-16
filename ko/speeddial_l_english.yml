@@ -35,10 +35,10 @@ speeddial_button_open_options_tooltip_extended_fixed: ""
 speeddial_button_open_options_tooltip_fixed: ""
 speeddial.4.name: ""
 speeddial.4.desc: ""
-speeddial_button_contact_marauder_tooltip: ""
-speeddial_button_contact_marauder_1_tooltip: ""
-speeddial_button_contact_marauder_2_tooltip: ""
-speeddial_button_contact_marauder_3_tooltip: ""
+speeddial_button_contact_marauder_tooltip: "§H약탈자§! 연결"
+speeddial_button_contact_marauder_1_tooltip: "§H약탈자§! 연결"
+speeddial_button_contact_marauder_2_tooltip: "§H약탈자§! 연결"
+speeddial_button_contact_marauder_3_tooltip: "§H약탈자§! 연결"
 
 # mods #
 
