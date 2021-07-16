@@ -33,8 +33,8 @@ speeddial_button_open_options_tooltip_classic: ">§G클래식§!\n · §R심화 
 speeddial_button_open_options_tooltip_extended: " · §R클래식§!\n>§G심화 (클래식)§!\n · §R심화 (고정)§!\n · §R고정§!"
 speeddial_button_open_options_tooltip_extended_fixed: " · §R클래식§!\n · §R심화 (클래식)§!\n>§G심화 (고정)§!\n · §R고정§!"
 speeddial_button_open_options_tooltip_fixed: " · §R클래식§!\n · §R심화 (클래식)§!\n · §R심화 (고정)§!\n>§G고정§!"
-speeddial.4.name: ""
-speeddial.4.desc: ""
+speeddial.4.name: "§R*경고*§! 스피드다이얼 - 장막 재접촉 가능 타이머 마우스 커서 표기 옵션"
+speeddial.4.desc: "이 알림은 오직 당신이 장막에 도달하였기 떄문에 나타나며 스피드다이얼이 업데이트 되었거나 최근에 이 모드를 설치하였기 때문입니다. 이 알림은 다른상황에선 나타나지 않습니다.\n\n 마우스 커서의 타이머 툴팁은 스피드다이얼 장막버튼으로 킬 수 있으며 다음 장막 접촉이 가능한 때를 알려줍니다. 허나 이 옵션이 코딩된 방식 (다른 모드 및 미래 추가될 패치들에도 잘 적용 될 수 있게 된) 떄문에, 조금 짜증나는 버그가 존재합니다. 바로 만약 당신이 현재 장막에 접근 자체를 할 수 없는 상태로 이 옵션을 사용할 경우 해당 타이머가 제대로 작용하지 않을 것 입니다.\n\n다음 사항들을 주의 하십시오:\n\n§H해당 타이머가 다음번 장막 접촉 후 정상 작동 할 것입니다.§!\n\n§R!오직!§!\n\n§H당신이 장막에 접촉이 가능해 지고 난 뒤 1달을 기다려야 합니다§!.\n\n이 절차가 이행 되어야 타이머가 제대로 리셋되어 버그가 없어지고 이 타이머 옵션이 정상작동 할 것입니다!"
 speeddial_button_contact_marauder_tooltip: "§H약탈자§! 연결"
 speeddial_button_contact_marauder_1_tooltip: "§H약탈자§! 연결"
 speeddial_button_contact_marauder_2_tooltip: "§H약탈자§! 연결"
@@ -54,7 +54,7 @@ speeddial_button_contact_merc_tooltip: "§H용병§! 연결"
 
 speeddial_button_contact_hfe_tooltip: "§H[human_fallen_empires_thoth.GetName]§! 연결"
 speeddial_button_contact_hfe_pirate_tooltip: "§H해적§! 연결"
-speeddial_button_contact_hfe_deepvoid_tooltip: ""
+speeddial_button_contact_hfe_deepvoid_tooltip: "도킹합니다"
 speeddial_button_allow_hfe_deepvoid_tooltip: "우리는 우호 새력의 행성이 있는 항성계에 있어야 합니다."
 
 # new enclaves
