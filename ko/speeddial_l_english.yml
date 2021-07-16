@@ -48,14 +48,14 @@ speeddial_button_contact_marauder_3_tooltip: "§H약탈자§! 연결"
 
 # merc enclave
 
-speeddial_button_contact_merc_tooltip: ""
+speeddial_button_contact_merc_tooltip: "§H용병§! 연결"
 
 # human fallen empires
 
-speeddial_button_contact_hfe_tooltip: ""
-speeddial_button_contact_hfe_pirate_tooltip: ""
+speeddial_button_contact_hfe_tooltip: "§H[human_fallen_empires_thoth.GetName]§! 연결"
+speeddial_button_contact_hfe_pirate_tooltip: "§H해적§! 연결"
 speeddial_button_contact_hfe_deepvoid_tooltip: ""
-speeddial_button_allow_hfe_deepvoid_tooltip: ""
+speeddial_button_allow_hfe_deepvoid_tooltip: "우리는 우호 새력의 행성이 있는 항성계에 있어야 합니다."
 
 # new enclaves
 
