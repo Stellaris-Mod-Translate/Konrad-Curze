@@ -59,10 +59,10 @@ speeddial_button_allow_hfe_deepvoid_tooltip: "우리는 우호 새력의 행성�
 
 # new enclaves
 
-speeddial_button_contact_nehive_tooltip: ""
-speeddial_button_contact_nemachine_tooltip: ""
-speeddial_button_contact_neshroud_tooltip: ""
+speeddial_button_contact_nehive_tooltip: "§H대우주 군체§! 연결"
+speeddial_button_contact_nemachine_tooltip: "§H최초의 기계들§! 연결"
+speeddial_button_contact_neshroud_tooltip: "§H장막의 아이들§! 연결"
 
 # xenonion
 
-speeddial_button_contact_xenonews_tooltip: ""
+speeddial_button_contact_xenonews_tooltip: "§H제노니온 보도국§! 연결"
